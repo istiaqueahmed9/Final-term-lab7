@@ -1,0 +1,4 @@
+C:\Users\istiaque ahmed\source\repos\lab7\lab7\obj\Debug\netcoreapp3.1\lab7.csprojAssemblyReference.cache
+C:\Users\istiaque ahmed\source\repos\lab7\lab7\obj\Debug\netcoreapp3.1\lab7.AssemblyInfoInputs.cache
+C:\Users\istiaque ahmed\source\repos\lab7\lab7\obj\Debug\netcoreapp3.1\lab7.AssemblyInfo.cs
+C:\Users\istiaque ahmed\source\repos\lab7\lab7\obj\Debug\netcoreapp3.1\lab7.csproj.CoreCompileInputs.cache
